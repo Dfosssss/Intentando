@@ -1,0 +1,6 @@
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\bin\Debug\Contraseña.exe.config
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\bin\Debug\Contraseña.exe
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\bin\Debug\Contraseña.pdb
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\obj\Debug\Contraseña.csprojResolveAssemblyReference.cache
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\obj\Debug\Contraseña.exe
+c:\users\dfosj\documents\visual studio 2015\Intentando\Contraseña\Contraseña\obj\Debug\Contraseña.pdb
