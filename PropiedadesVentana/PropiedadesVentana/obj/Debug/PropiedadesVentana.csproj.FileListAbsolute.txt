@@ -1,0 +1,9 @@
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.exe.config
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.exe
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.pdb
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.csprojResolveAssemblyReference.cache
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.Form1.resources
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.Properties.Resources.resources
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.csproj.GenerateResource.Cache
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.exe
+c:\users\dfosj\documents\visual studio 2015\Intentando\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.pdb
