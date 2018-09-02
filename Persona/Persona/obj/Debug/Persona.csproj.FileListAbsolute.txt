@@ -1,6 +1,0 @@
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\bin\Debug\Persona.exe.config
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\bin\Debug\Persona.exe
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\bin\Debug\Persona.pdb
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\obj\Debug\Persona.csprojResolveAssemblyReference.cache
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\obj\Debug\Persona.exe
-c:\users\dfosj\documents\visual studio 2015\Intentando\Persona\Persona\obj\Debug\Persona.pdb
